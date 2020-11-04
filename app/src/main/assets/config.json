@@ -125,7 +125,7 @@
     "LINE_INTENSITY": 85
   },
   "covid19-SDBiosensor-IgG": {
-    "REF_IMG": "covid19_sdbiosensorIgG_ref_v0",
+    "REF_IMG": "covid19_sdbiosensorigg_ref_v0",
     "VIEW_FINDER_SCALE": 0.6,
     "RESULT_WINDOW_TOP_LEFT": [255, 95],
     "RESULT_WINDOW_BOTTOM_RIGHT": [370, 115],
@@ -136,7 +136,7 @@
     "LINE_INTENSITY": 85
   },
   "covid19-SDBiosensor-IgM": {
-    "REF_IMG": "covid19_sdbiosensorIgM_ref_v0",
+    "REF_IMG": "covid19_sdbiosensorigm_ref_v0",
     "VIEW_FINDER_SCALE": 0.6,
     "RESULT_WINDOW_TOP_LEFT": [265, 90],
     "RESULT_WINDOW_BOTTOM_RIGHT": [375, 115],
@@ -158,7 +158,7 @@
     "MIDDLE_LINE_NAME": "lgG",
     "BOTTOM_LINE_NAME": "lgM",
     "LINE_INTENSITY": 85
-  }
+  },
     "syphilis-SDBiosensor-Ab": {
     "REF_IMG": "syphilisab_sdbiosensor_ref_v0",
     "VIEW_FINDER_SCALE": 0.6,
@@ -169,7 +169,7 @@
     "TOP_LINE_NAME": "Control",
     "MIDDLE_LINE_NAME": "Test",
     "LINE_INTENSITY": 85
-  }
+  },
     "covid19-Joysbio-Ag": {
     "REF_IMG": "covid19ag_joysbio_ref_v0",
     "VIEW_FINDER_SCALE": 0.6,
